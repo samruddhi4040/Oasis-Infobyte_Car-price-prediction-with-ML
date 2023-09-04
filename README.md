@@ -6,5 +6,6 @@ I've made use of libraries such as pandas (to read in dataset files), numpy (to 
 The decision tree regression algorithm to train a car price prediction model was used.
 The data was split into training and test sets to train the model.  
 
-I've also added the dataset used by me. 
-The dataset was downloaded from Kaggle.com 
+I've also added the dataset used by me.    
+The dataset was downloaded from www.Kaggle.com 
+
